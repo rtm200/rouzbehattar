@@ -10,7 +10,7 @@
     </a>
   </div>
   <div>
-    <a href="https://komarev.com/ghpvc/?username=kimiafarshadnia">
+    <a href="https://komarev.com/ghpvc/?username=rtm200">
       <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
     </a>
   </div>
@@ -24,7 +24,7 @@
 </div>
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiafarshadnia&theme=tokyonight-duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rtm200&theme=tokyonight-duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
 ###  Programming Languages :
 
