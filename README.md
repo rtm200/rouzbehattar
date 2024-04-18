@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width='150'/>
 
   <div id="badges">
-    <a href="https://www.instagram.com/kimia.farshadnia">
+    <a href="https://www.instagram.com/_rtm200">
       <img src="https://img.shields.io/badge/instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="#">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
